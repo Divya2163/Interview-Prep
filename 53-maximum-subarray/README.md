@@ -1,9 +1,9 @@
-#Given an integer array nums, find the subarray with the largest sum, and return its sum.
+<h3>Given an integer array nums, find the subarray with the largest sum, and return its sum.</h3>
 <hr>
 <p>Difficulty : Medium</p>
  
 
-Example 1:
+Example 1:<br>
 <br>
 Input: nums = [-2,1,-3,4,-1,2,1,-5,4]<br>
 Output: 6<br>
@@ -25,6 +25,6 @@ Constraints:<br>
 
 1 <= nums.length <= 105
 -104 <= nums[i] <= 104<br>
- <br><br>
+ <br>
 
 Follow up: If you have figured out the O(n) solution, try coding another solution using the divide and conquer approach, which is more subtle.
